@@ -26,10 +26,9 @@
 
 16 (Jefferson)
 
-15 (Martin) 
+16 (Martin) 
 
 ***CAPITULO N° 12***
-15 (Tito)
 
 21.Determine la capacitancia total para cada uno de los circuitos mostrados en la figura 12-69.
 
