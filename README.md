@@ -69,6 +69,7 @@ F = 1/10ms
 F = 10Hz
 
 41. El periodo de una onda cuadrada es de 40 ms. Haga una lista con los seis primeros armónicos impares.
+
 F = 1/0.04s
 F = 25 Hz
 Seis primeros armónicos: 75 – 125 – 175 – 225 – 275 – 325 
@@ -76,8 +77,89 @@ Seis primeros armónicos: 75 – 125 – 175 – 225 – 275 – 325
 El osciloscopio
 43. Determine el valor pico y el periodo para la onda seno mostrada en la pantalla del osciloscopio de la figura.
 
+![image](https://user-images.githubusercontent.com/94182617/149536578-e5119bec-8cff-4916-97aa-da476e82ea8f.png)
+
+Vp = 3 divisores * 0.2V/división 
+Vp = 600mV
+
+T = 10 divisores * 50ms
+T = 500ms
+
 
 ***CAPITULO N° 12***
+
+El capacitor básico
+1. (a) Encuentre la capacitancia cuando Q  = 50 mC y V  = 10 V.
+(b) Determine la carga cuando C =  0.001 mF y V  = 1 kV.
+(c) Determine el voltaje cuando Q  = 2 mC y C  = 200 mF.
+C = Q/V
+(a)
+C = 50mC/10V
+C = 5uF
+
+(b)
+Q = (0.001mF)(1kV)
+Q = 1 uC
+
+(c)
+V = 2mC/200mF
+V = 10 V
+
+3. Transforme los siguientes valores de picofarads a microfarads:
+(a) 1000 pF 	(b) 3500 pF 	(c) 250 pF
+De pico a micro es recorrer 6 espacios a la izquierda.
+a. 0.001 uF
+b. 0.0035 uF
+c. 0.00025 uF
+
+5. ¿Cuánta energía guarda un capacitor de 1000 mF que se carga a 500 V?
+W = 1/2 CV^2 
+W =1/2 1000mF(500V)^2
+W =125000J 
+W =125kJ
+
+7. Calcule la permitividad absoluta, e, para cada uno de los siguientes materiales. Consulte la tabla para obtener los valores de er.
+(a) aire 		(b) aceite 	(c) vidrio 	(d) Teflón®
+
+(a)
+![image](https://user-images.githubusercontent.com/94182617/149536713-c0aadb5b-45cb-46d8-a999-328a8c6a083d.png)
+
+(b)
+![image](https://user-images.githubusercontent.com/94182617/149536819-94b1c062-27bc-4989-bf1e-be9bacb13713.png)
+
+(c)
+![image](https://user-images.githubusercontent.com/94182617/149536868-77298d65-c07b-4275-9c9b-2c6d009e017a.png)
+
+(d)
+![image](https://user-images.githubusercontent.com/94182617/149536889-4b3933ce-462a-4ad7-ba24-c00ffe3609ae.png)
+
+9. Un capacitor de aire tiene un área de placas total de 0.05 m2. La separación entre las placas es de 4.5*10^4 m. Calcule la capacitancia.
+
+![image](https://user-images.githubusercontent.com/94182617/149536922-2a46eeeb-64af-41e2-bf29-0bca9adcea76.png)
+
+11. Un estudiante decide construir un capacitor con dos placas conductoras de 30 cm por lado. Separa las placas con un dieléctrico de papel (Er  2.5) de 8  105 de espesor. ¿Cuál es la capacitancia de su capacitor?
+
+![image](https://user-images.githubusercontent.com/94182617/149536983-b3a47812-1692-4eb6-a10c-cb01780fe971.png)
+
+13. Un capacitor de 0.001 mF tiene coeficiente de temperatura positivo de 500 ppm/°C. ¿Cuánto cambio de capacitancia provocará un incremento de 25°C en la temperatura?
+Un coeficiente de temperatura indica la cantidad y dirección de un cambio de valor de capacitancia debido a la temperatura. Por lo que al poseer el capacitor una temperatura positiva de 500 ppm/°C significa que la capacitancia se incrementa con una elevación de la temperatura o disminuye con un descenso de ésta. Es decir, si aumenta la temperatura en 25°C la capacitancia se incrementa. 
+
+Tipos de capacitores
+15. De mica o cerámica, ¿cuál tipo de capacitor tiene la constante dieléctrica más alta?
+El capacitor que tiene una constante dieléctrica más alta es el de cerámica ya que proporciona un valor típico de 1200, mientras que la de mica tan solo proporciona un valor típico de 5. 
+
+17. Nombre dos tipos de capacitores electrolíticos. ¿Cómo difieren los capacitores electrolíticos de otros capacitores?
+Los electrolitos de aluminio con conductores axiales o radiales y electrolitos de tantalio de forma tubular o gota. Los capacitores electrolíticos difieren en que mientras otros capacitores utilizan dos placas similares, el capacitor electrolítico consta de una placa de hoja de aluminio y de otra placa elaborada a partir de un electrolito conductor aplicado a determinado material, tal como película plástica. Estas dos “placas” están separadas por una capa de óxido de aluminio depositada sobre la superficie de la placa de aluminio.
+
+19. Determine el valor de los capacitores de disco de cerámica mostrados en la figura.
+
+![image](https://user-images.githubusercontent.com/94182617/149537049-245b521f-24fa-43b9-82c4-b78f1a36e835.png)
+
+-	El capacitor a tiene un valor de 0.022 mili faradios 
+-	El capacitor b tiene un valor de 0.047 faradios 
+-	El capacitor c tiene un valor de 0.001micro faradios  
+-	El capacitor d tiene un valor de 220 faradios
+
 
 21.Determine la capacitancia total para cada uno de los circuitos mostrados en la figura 12-69.
 
