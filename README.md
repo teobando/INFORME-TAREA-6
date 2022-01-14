@@ -32,7 +32,50 @@ Entender de forma precisa los conceptos básicos en lo que se refiere a la intro
 
 17 (Jefferson)
 
-16 (Martin) 
+35. Calcule el valor promedio de la forma de onda pulsante mostrada en la figura.
+
+![image](https://user-images.githubusercontent.com/94182617/149535892-f7b5a958-3d9f-46aa-9ee7-360db6337cce.png)
+
+Línea base = 5V
+Amplitud = 5V
+Ciclo de trabajo = 10%
+Vprom = Línea base + (ciclo de trabajo)(amplitud)
+Vprom = 5 + (0.1)(5)
+Vprom = 5.5V
+
+37. Determine el valor promedio de cada forma de onda pulsante mostrada en la figura.
+
+![image](https://user-images.githubusercontent.com/94182617/149535981-6d9dd7f3-9882-4e36-9b59-0b61233c9f1a.png)
+
+(a)
+Vprom = -1 + (0.1)(2.5)
+Vprom = -0.75V
+
+(b) 
+Vprom = 1 + (0.1)(3)
+Vprom = 1.3V
+
+39. ¿Cuál es la frecuencia de cada forma de onda diente de sierra mostrada en la figura?
+ 
+![image](https://user-images.githubusercontent.com/94182617/149536054-b1df0e59-4cb8-43f4-a3b9-8d76761ceb0a.png)
+
+(a)
+F = 1/T
+F = 1/20us
+F = 50kHz
+
+(b)
+F = 1/10ms
+F = 10Hz
+
+41. El periodo de una onda cuadrada es de 40 ms. Haga una lista con los seis primeros armónicos impares.
+F = 1/0.04s
+F = 25 Hz
+Seis primeros armónicos: 75 – 125 – 175 – 225 – 275 – 325 
+
+El osciloscopio
+43. Determine el valor pico y el periodo para la onda seno mostrada en la pantalla del osciloscopio de la figura.
+
 
 ***CAPITULO N° 12***
 
