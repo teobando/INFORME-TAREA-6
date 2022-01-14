@@ -30,8 +30,6 @@ Entender de forma precisa los conceptos básicos en lo que se refiere a la intro
 
 ***CAPITULO N° 11***
 
-17 (Jefferson)
-
 1. Calcule la frecuencia con cada uno de los siguientes valores de periodo: 
 (a) 1 s             (b) 0.2 s       (c) 50 ms      (d) 1 ms          (e)  500 µs                 (f) 500 µs
 
@@ -72,7 +70,7 @@ Entender de forma precisa los conceptos básicos en lo que se refiere a la intro
 
 13. Una onda seno A tiene un cruce por cero hacia positivo en 30°. La onda seno B tiene un cruce por cero hacia positivo en 45°. Determine el ángulo de fase que hay entre las dos señales. ¿Cuál señal es la que se adelanta?
 
-![image](https://user-images.githubusercontent.com/84757114/149541327-eb4ab993-fa3c-4699-add9-975071d7b601.png)
+![image](https://user-images.githubusercontent.com/84757114/149544543-959902aa-7c81-4061-a1fe-818b8e78b55d.png)
 
 15. Trace un bosquejo de dos ondas seno como sigue: la onda seno A es la referencia y la onda seno B se retrasa 90° con respecto a la A. Ambas ondas tienen amplitudes iguales.
 
