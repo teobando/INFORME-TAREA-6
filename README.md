@@ -376,8 +376,13 @@ La fluctuación se reduce.
 
 **3.VIDEO**
 
+
 **4.CONCLUSIONES**
 
+1. Comprender la teoría es la base para aplicar los conceptos en la resolución de problemas, especialmente en el funcionamiento corriente y voltaje alternos y capacitores. 
+2. Los conceptos de capacitores nos muestran cómo se comportan en un circuito cerrado y la relación que existe entre sí cuando están conectados de forma paralela o en serie.
+3. El voltaje y corriente alternos nos permite captar la gran diferencia que hay con la corriente continua en circuitos cerrados.
+4. La resolución de todos los problemas propuestos nos permiten entender de forma clara los funcionamientos de la corriente y voltaje alterna en circuitos cerrados. Así mismo comprender el papel que tienen los capacitores y su relación entre sí al estar conectados de forma en serie y paralelo.   
 
 **5.BIBLIOGRAFÍA**
 
