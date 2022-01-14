@@ -26,6 +26,10 @@ Entender de forma precisa los conceptos básicos en lo que se refiere a la intro
 
 **2.MARCO TEORICO(RESUMEN)**
 
+![image](https://user-images.githubusercontent.com/94098157/149550915-67f19454-56f6-479d-bf77-7f666153b7af.png)
+
+![image](https://user-images.githubusercontent.com/94098157/149551044-f836d7c3-9f38-48c9-bc04-b74bbd8d8558.png)
+
 **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 ***CAPITULO N° 11***
