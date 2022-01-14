@@ -32,6 +32,97 @@ Entender de forma precisa los conceptos básicos en lo que se refiere a la intro
 
 17 (Jefferson)
 
+1. Calcule la frecuencia con cada uno de los siguientes valores de periodo: 
+(a) 1 s             (b) 0.2 s       (c) 50 ms      (d) 1 ms          (e)  500 µs                 (f) 500 µs
+
+![image](https://user-images.githubusercontent.com/84757114/149540302-442bfb36-83d0-4a87-a5c6-fdf574ffc23b.png)
+                        
+![image](https://user-images.githubusercontent.com/84757114/149540371-760d2f26-3a21-4853-90ca-77f46ad6fadf.png)
+
+![image](https://user-images.githubusercontent.com/84757114/149540477-19d9afc2-f8d3-4c8b-a8e4-f33b465198d6.png)
+
+3. Una onda seno realiza 5 ciclos en 10 ms. ¿Cuál es su periodo?
+
+![image](https://user-images.githubusercontent.com/84757114/149540775-697b5ccf-b50b-4589-af07-49929090ff85.png)
+
+5. La espira conductora del rotor de un generador monofásico de dos polos gira a 250 rps. ¿Cuál es la frecuencia del voltaje de salida inducido?
+ 
+ ![image](https://user-images.githubusercontent.com/84757114/149540832-8247857a-e094-4df8-b29e-11655af461f0.png)
+ 
+7. ¿A qué rapidez de rotación debe ser operado un generador de cuatro polos para producir un voltaje sinusoidal de 400 Hz?
+
+![image](https://user-images.githubusercontent.com/84757114/149540862-f14ace58-1e4c-4104-85a2-5c31d6c754f5.png)
+
+9. El valor rms de una corriente sinusoidal es de 5 mA. Determine los siguientes valores: (a) pico (b) promedio (c) pico a pico.
+
+![image](https://user-images.githubusercontent.com/84757114/149541018-84b748c9-1249-4bf2-8605-0fdb79b4d66e.png)
+
+11. Transforme los siguientes valores angulares de grados a radianes: 
+                               (a) 60°   (b) 100°   (c) 150°    (d) 200°  (e) 300° 
+ 
+![image](https://user-images.githubusercontent.com/84757114/149541062-ec7da79d-9695-43cd-9e96-cd33c49965f8.png)
+
+![image](https://user-images.githubusercontent.com/84757114/149541090-8a9d77cd-5ec3-4fe5-9beb-8d0bc39bd813.png)
+
+![image](https://user-images.githubusercontent.com/84757114/149541113-c050a203-64a2-45ef-9614-2b635fe77ea3.png)
+
+![image](https://user-images.githubusercontent.com/84757114/149541137-2f296c5b-43eb-4287-ba63-b9969edd1971.png)
+
+![image](https://user-images.githubusercontent.com/84757114/149541161-74a3fb29-1ce7-47d4-8457-8fec9e32ea98.png)
+
+13. Una onda seno A tiene un cruce por cero hacia positivo en 30°. La onda seno B tiene un cruce por cero hacia positivo en 45°. Determine el ángulo de fase que hay entre las dos señales. ¿Cuál señal es la que se adelanta?
+
+![image](https://user-images.githubusercontent.com/84757114/149541327-eb4ab993-fa3c-4699-add9-975071d7b601.png)
+
+15. Trace un bosquejo de dos ondas seno como sigue: la onda seno A es la referencia y la onda seno B se retrasa 90° con respecto a la A. Ambas ondas tienen amplitudes iguales.
+
+![image](https://user-images.githubusercontent.com/84757114/149541378-2809d8dc-750d-4796-8475-5f0be7983289.png)
+
+17. Para una corriente sinusoidal particular referida a 0°, el valor pico es de 100 mA. Determine el valor instantáneo en cada uno de los siguientes puntos: 
+                          (a) 500     (b) 50°    (c) 10°   (d) 505°    
+
+![image](https://user-images.githubusercontent.com/84757114/149541435-7864f937-c17e-4343-9f5f-9b6ad85ba871.png)
+
+![image](https://user-images.githubusercontent.com/84757114/149541457-4ef80cfd-693f-47ff-9a22-4fb17fd9b54c.png)
+
+![image](https://user-images.githubusercontent.com/84757114/149541481-3a28b5f1-3740-4eab-b0fe-82c595371b4f.png)
+
+![image](https://user-images.githubusercontent.com/84757114/149541505-63c867b6-eb59-4f3b-862f-d01603bef788.png)
+
+19. La onda seno A tiene 30° de retraso con respecto a la onda seno B. Ambas tienen valores pico de 15 V. La onda seno A es la referencia con un cruce por cero hacia positivo en 0°. Determine el valor instantáneo de la onda seno B .
+
+![image](https://user-images.githubusercontent.com/84757114/149541587-e96c6131-19a1-43c3-b707-3616bd20ba22.png)
+
+21. Cierta onda seno tiene frecuencia de 2.2 kHz y valor rms de 25 V. Suponiendo que se inicia un ciclo dado (cruce por cero) en el instante t 0 s, ¿cuál es el cambio de voltaje desde 0.12 ms hasta 0.2 ms?
+
+![image](https://user-images.githubusercontent.com/84757114/149541659-692f6901-1976-48bc-be5e-ab35f384afa4.png)
+
+23. Trace las ondas seno representadas por el diagrama fasorial de la figura 11-79. Las longitudes del fasor representan valores pico.
+ 
+ ![image](https://user-images.githubusercontent.com/84757114/149541712-71bbe4a2-4ee6-46ca-8517-135429408a1e.png)
+
+![image](https://user-images.githubusercontent.com/84757114/149541729-24ce3636-d72b-469b-a1a6-607eca908b7b.png)
+ 
+25. Determine el valor de la onda seno A mostrada en la figura 11-78 en cada uno de los tiempos siguientes, medido a partir del cruce por cero hacia positivo. Suponga una frecuencia de 5 kHz. (a) (b) (c)
+
+![image](https://user-images.githubusercontent.com/84757114/149541771-3e58695a-4d9f-45f2-bfa9-9f1a9065d8a2.png)
+
+27. Encuentre los valores promedio en medio ciclo de los voltajes presentes entre los extremos de R1 y R2 en la figura 11-81. Todos los valores mostrados son rms.
+
+![image](https://user-images.githubusercontent.com/84757114/149541932-c37812c1-990e-4c91-a18d-201c870ad843.png)
+
+29. Una onda seno con valor rms de 10.6 V aparece montada sobre un nivel de cd de 24 V. ¿Cuáles son los valores máximo y mínimo de la forma de onda resultante?
+
+![image](https://user-images.githubusercontent.com/84757114/149542047-db68260c-2099-49e0-8b0a-a74ed408499a.png)
+
+31. Una onda pico de 6 V aparece montada en un voltaje de cd de 8 V. Si el voltaje de cd se reduce a 5 V, ¿qué tan negativa llegaría a ser la onda seno?
+
+![image](https://user-images.githubusercontent.com/84757114/149542252-ede01c15-9684-4b02-ac17-b69424ec09d3.png)
+
+33. Con la gráfica de la figura 11-84, determine los valores aproximados de Tr, Tf, TW, y la amplitud.
+ 
+![image](https://user-images.githubusercontent.com/84757114/149542501-16a7b273-6b09-49fa-9b1c-9a02d9840f78.png)
+
 35. Calcule el valor promedio de la forma de onda pulsante mostrada en la figura.
 
 ![image](https://user-images.githubusercontent.com/94182617/149535892-f7b5a958-3d9f-46aa-9ee7-360db6337cce.png)
