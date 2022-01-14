@@ -16,7 +16,13 @@
 
 *1.1 Objetivo General:* 
 
+Entender de forma precisa los conceptos básicos en lo que se refiere a la introducción de corriente y voltaje alternos y además a los capacitores mediate una lectura profunda del texto guía para aplicar en los ejercicios propuestos de cada capítulo.
+
 *1.2 Objetivos Especificos*
+
+1. Comprender la teoria de  corriente y voltaje alternos y lo que son capacitores para mantener una idea clara. 
+2. Resumir mediante mapas conceptuales todos conceptos que se abarcan corriente y voltaje alternos y capacitores
+3. Aplicar la teoria en los ejercicios Propuestos.
 
 **2.MARCO TEORICO(RESUMEN)**
 
@@ -144,4 +150,7 @@ La fluctuación se reduce.
 
 **4.CONCLUSIONES**
 
+
 **5.BIBLIOGRAFÍA**
+
+Floyd, T. (2007). *Principios de circuitos electricos* (Ed. 8va). Pearson EDUCATION.
